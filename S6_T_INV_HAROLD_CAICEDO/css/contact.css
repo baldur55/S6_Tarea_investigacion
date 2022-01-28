@@ -1,0 +1,22 @@
+.contact {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.contact-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 100px.100px.100px.7px;
+}
+
+@media(min-width: 950px) {
+    .contact-title {
+        font-size: 50px;
+    }
+    .contact-skill {
+        font-size: 30px;
+        margin: 20px;
+    }
+}
